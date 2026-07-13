@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
