@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
