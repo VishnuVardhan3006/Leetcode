@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishnuVardhan3006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishnuVardhan3006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
