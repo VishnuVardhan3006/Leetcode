@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
