@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
