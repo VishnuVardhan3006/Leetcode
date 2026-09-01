@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishnuVardhan3006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
