@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishnuVardhan3006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
