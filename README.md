@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0118-pascals-triangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0055-jump-game) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/VishnuVardhan3006/Leetcode/tree/master/0860-lemonade-change) |
